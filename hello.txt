@@ -1,6 +1,10 @@
 1
+<<<<<<< HEAD
 2
 3
 4
 revert5
 revert6
+=======
+2
+>>>>>>> parent of 60169c5 (m3)
